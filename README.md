@@ -5,7 +5,7 @@ The codes for "Harmonizing Flows: Unsupervised MR harmonization based on normali
 
 ### Step 0: Preparing the data and training target task(segmentation)
 
-20 MRIs from each of three different sites (KKI, PITT, NYU) of ABIDE dataset and 19 other MRIs from CALTECH site are selected. Then MRIs are splitted to train(60%)/val(15%)/test(25%) split and for each split, coronal 2D slices of the MRIs are saved as numpy array as well as segmentatoin and brain mask and the information are saved at: "./data/ABIDE-slices-{split}-dataframce.csv". You can check sample dataframe in the data folder to check the how it should look like (header of columns are important).
+20 MRIs from each of three different sites (KKI, PITT, NYU) of ABIDE dataset and 19 other MRIs from CALTECH site are selected. Then MRIs are splitted to train(60%)/val(15%)/test(25%) and for each split, coronal 2D slices of the MRIs are saved as numpy array as well as segmentatoin and brain mask and the information are saved at: "./data/ABIDE-slices-{split}-dataframce.csv". You can check sample dataframe in the data folder to check the how it should look like (header of columns are important).
 Also, a 2D segmentation network is trained for each of the sites and is saved at "./checkpoints/segmentation_network_{site}.pkl".
 
 
