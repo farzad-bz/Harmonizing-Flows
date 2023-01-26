@@ -1,0 +1,5 @@
+,SUB_ID,SITE_ID,SITE,FILE_ID,DX_GROUP,SEX,AGE_AT_SCAN,T1,brainmask,segmentation
+0,51483,CALTECH,CALTECH,Caltech_0051483,2,1,20.9,train/Caltech_0051483/sample-t1.npy,train/Caltech_0051483/sample-brainmask.npy,train/Caltech_0051483/sample-segmentation.npy
+0,51483,KKI,KKI,KKI_0050782,2,1,20.9,train/KKI_0050782/sample-t1.npy,train/KKI_0050782/sample-brainmask.npy,train/KKI_0050782/sample-segmentation.npy
+0,51483,PITT,PITT,Pitt_0050041,2,1,20.9,train/Pitt_0050041/sample-t1.npy,train/Pitt_0050041/sample-brainmask.npy,train/Pitt_0050041/sample-segmentation.npy
+0,51483,NYU,NYU,NYU_0051086,2,1,20.9,train/NYU_0051086/sample-t1.npy,train/NYU_0051086/sample-brainmask.npy,train/NYU_0051086/sample-segmentation.npy
