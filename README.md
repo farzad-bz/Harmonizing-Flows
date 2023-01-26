@@ -1,7 +1,6 @@
 # Harmonizing FLows
 
-This codes are for submitted paper at IPMI203: "Harmonizing Flows: Unsupervised MR
-harmonization based on normalizing flows"
+The codes for "Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows"
 
 
 ### Step 0: Preparing the data and training target task(segmentation)
