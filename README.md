@@ -1,6 +1,6 @@
 # Harmonizing FLows
 
-The codes for "Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows"
+The codes for ["Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows"](https://arxiv.org/abs/2301.11551)
 
 
 ### Step 0: Preparing the data and training target task(segmentation)
